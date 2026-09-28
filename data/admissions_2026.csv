@@ -1,7 +1,15 @@
-지역,학교,항목,인원,출처,비고
-강남구,휘문고,서울대 최종합격(수시+정시+추합),50,https://www.veritas-a.com/news/articleView.html?idxno=599166,기사 제목·복수 출처 일치
-강남구,단대부고,서울대 최종합격(수시+정시+추합),37,https://www.veritas-a.com/news/articleView.html?idxno=599166,기사 제목·복수 출처 일치
-강남구,중동고,서울대 최종합격(수시+정시+추합),37,https://www.veritas-a.com/news/articleView.html?idxno=599166,기사 제목·복수 출처 일치
-강남구,휘문고,서울대 의대 합격,5,https://www.veritas-a.com/news/articleView.html?idxno=596840,기사 제목
-강남구,중동고,서울대 의대 합격,4,https://www.veritas-a.com/news/articleView.html?idxno=596840,기사 제목
-아산시,충남삼성고,서울대 의대 합격,2,https://www.veritas-a.com/news/articleView.html?idxno=596840,검색 요약만 확인 - 원문 대조 필요
+지역,학교,항목,인원,신뢰도,출처,비고
+강남구,휘문고,서울대 최종합격(수시+정시+추합),50,높음,https://www.veritas-a.com/news/articleView.html?idxno=599166,기사 제목·복수 출처 일치
+강남구,단대부고,서울대 최종합격(수시+정시+추합),37,높음,https://www.veritas-a.com/news/articleView.html?idxno=599166,기사 제목·복수 출처 일치
+강남구,중동고,서울대 최종합격(수시+정시+추합),37,높음,https://www.veritas-a.com/news/articleView.html?idxno=599166,기사 제목·복수 출처 일치
+강남구,진선여고,서울대 최종합격(수시+정시+추합),26,낮음,https://www.veritas-a.com/news/articleView.html?idxno=599166,검색 요약 1회
+강남구,중산고,서울대 최종합격(수시+정시+추합),26,낮음,https://www.veritas-a.com/news/articleView.html?idxno=599166,검색 요약 1회
+강남구,은광여고,서울대 최종합격(수시+정시+추합),3,낮음,https://www.veritas-a.com/news/articleView.html?idxno=599166,검색 요약 1회 - 수치가 어색함
+아산시,충남삼성고,서울대 합격(수시+정시),20,낮음,https://www.veritas-a.com/news/articleView.html?idxno=596840,검색 요약의 수시 16·정시 4 합산
+강남구,휘문고,서울대 의대 합격,5,높음,https://www.veritas-a.com/news/articleView.html?idxno=596840,기사 제목
+강남구,중동고,서울대 의대 합격,4,높음,https://www.veritas-a.com/news/articleView.html?idxno=596840,기사 제목
+강남구,단대부고,서울대 의대 합격,3,중간,https://www.veritas-a.com/news/articleView.html?idxno=596840,검색 요약 2회
+강남구,숙명여고,서울대 의대 합격,3,중간,https://www.veritas-a.com/news/articleView.html?idxno=596840,검색 요약 2회
+강남구,중산고,서울대 의대 합격,3,낮음,https://www.veritas-a.com/news/articleView.html?idxno=596840,검색 요약 1회
+강남구,진선여고,서울대 의대 합격,2,낮음,https://www.veritas-a.com/news/articleView.html?idxno=596840,검색 요약 1회
+아산시,충남삼성고,서울대 의대 합격,2,중간,https://www.veritas-a.com/news/articleView.html?idxno=596840,검색 요약 (전년 1명→2명)
